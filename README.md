@@ -1,4 +1,6 @@
-# FinDash: Personal Financial Dashboard
+# FinDash (pindash): Personal Financial Dashboard
+
+This Personal Finance Dashboard is a React-based application designed for intuitive wealth management. It features high-level summary cards, time-based trends, and categorical spending breakdowns to help users visualize their financial health at a glance.
 
 FinDash is a simple, modern, and intuitive web application designed to help users track and understand their financial activity. This project demonstrates responsive layout construction, data visualization, basic state management, and an aesthetically pleasing design system.
 
